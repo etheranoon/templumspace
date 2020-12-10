@@ -1693,6 +1693,29 @@ section.lazy-placeholder:after {
 .cid-siHClLpLIJ .img-text {
   color: #82786e;
 }
+.cid-siNz9HWD3g {
+  background: #ffffff;
+}
+.cid-siNz9HWD3g .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-siNz9HWD3g figcaption {
+  position: relative;
+}
+.cid-siNz9HWD3g figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-siNz9HWD3g .image-block {
+    width: 100% !important;
+  }
+}
+.cid-siNz9HWD3g DIV {
+  color: #7f1933;
+}
 .cid-siHGfOugQJ {
   padding-top: 15px;
   padding-bottom: 90px;
