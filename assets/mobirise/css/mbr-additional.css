@@ -769,6 +769,7 @@ section.lazy-placeholder:after {
 .cid-siNvUkfyVn .mbr-text,
 .cid-siNvUkfyVn .mbr-section-btn {
   color: #232323;
+  text-align: center;
 }
 .cid-siNvUQEfy3 {
   padding-top: 120px;
@@ -847,6 +848,44 @@ section.lazy-placeholder:after {
   .cid-siNvVosEQb .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-siNxsOCbAS {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-siNxsOCbAS p {
+  color: #767676;
+}
+.cid-siNxsOCbAS .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-siNxsOCbAS .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-siNxsOCbAS .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-siNxsOCbAS .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-siNxsOCbAS .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-siNxsOCbAS .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
 }
 .cid-siNvniRppN {
   padding-top: 90px;
