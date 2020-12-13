@@ -1123,6 +1123,49 @@ section.lazy-placeholder:after {
 .cid-siQuBOgp7a UL {
   text-align: center;
 }
+.cid-sj212aF5R2 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-sj212aF5R2 .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-sj212aF5R2 .step {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+}
+@media (max-width: 767px) {
+  .cid-sj212aF5R2 .step {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+.cid-sj212aF5R2 .separline {
+  position: relative;
+}
+.cid-sj212aF5R2 .separline:after {
+  top: 68px;
+  left: 30px;
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: calc(100% - (32px + 4px) * 2);
+  background-color: #efefef;
+}
+@media (max-width: 767px) {
+  .cid-sj212aF5R2 .separline:after {
+    top: 52px;
+    left: 22px;
+    height: calc(100% - 56px);
+  }
+}
 .cid-siRPq600Ze {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -1178,7 +1221,7 @@ section.lazy-placeholder:after {
 .cid-siXhBqZdBS {
   padding-top: 105px;
   padding-bottom: 120px;
-  background-color: #465052;
+  background-color: #2e2e2e;
 }
 .cid-siXhBqZdBS .mbr-text,
 .cid-siXhBqZdBS .mbr-section-btn {
@@ -1203,19 +1246,6 @@ section.lazy-placeholder:after {
   .cid-siRQ7u9pU8 .image-block {
     width: 100% !important;
   }
-}
-.cid-siIiJn8G9A {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #2e2e2e;
-}
-.cid-siIiJn8G9A H1 {
-  color: #e4d295;
-  text-align: center;
-}
-.cid-siIiJn8G9A H3 {
-  color: #ffffff;
-  text-align: center;
 }
 .cid-siXiUFB6TI {
   padding-top: 60px;
@@ -1261,6 +1291,19 @@ section.lazy-placeholder:after {
   .cid-siXiUFB6TI .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
   }
+}
+.cid-siIiJn8G9A {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #2e2e2e;
+}
+.cid-siIiJn8G9A H1 {
+  color: #e4d295;
+  text-align: center;
+}
+.cid-siIiJn8G9A H3 {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-siv4xTw6aP {
   padding-top: 15px;
