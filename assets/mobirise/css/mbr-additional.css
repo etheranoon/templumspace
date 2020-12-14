@@ -725,14 +725,45 @@ section.lazy-placeholder:after {
 .cid-sj96HLsSVM .card {
   padding-bottom: 1.5rem;
 }
-.cid-sj96H7AUlB {
-  padding-top: 15px;
+.cid-sj9kKCGEru {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
-.cid-sj96H7AUlB .mbr-text,
-.cid-sj96H7AUlB blockquote {
-  color: #ffffff;
+.cid-sj9kKCGEru .card {
+  align-self: stretch;
+}
+.cid-sj9kKCGEru .card-box {
+  height: 100%;
+  background-color: #2e2e2e;
+  padding: 2rem;
+}
+.cid-sj9kKCGEru h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sj9kKCGEru p {
+  color: #767676;
+  text-align: left;
+}
+.cid-sj9kKCGEru .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sj9kKCGEru .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-sj9kKCGEru .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-sj9kKCGEru P {
   text-align: center;
 }
 .cid-sj96FU0A0k {
@@ -861,7 +892,7 @@ section.lazy-placeholder:after {
 }
 .cid-sj96CZ1Tcf .card-box {
   height: 100%;
-  background-color: #ffffff;
+  background-color: #efefef;
   padding: 2rem;
 }
 .cid-sj96CZ1Tcf h4 {
@@ -1950,47 +1981,6 @@ section.lazy-placeholder:after {
   .cid-siXiUFB6TI .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
   }
-}
-.cid-sj93iYlHBv {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #efefef;
-}
-.cid-sj93iYlHBv .card {
-  align-self: stretch;
-}
-.cid-sj93iYlHBv .card-box {
-  height: 100%;
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-sj93iYlHBv h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-sj93iYlHBv p {
-  color: #767676;
-  text-align: left;
-}
-.cid-sj93iYlHBv .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-sj93iYlHBv .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-sj93iYlHBv .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-sj93iYlHBv P {
-  text-align: left;
 }
 .cid-siIiJn8G9A {
   padding-top: 90px;
