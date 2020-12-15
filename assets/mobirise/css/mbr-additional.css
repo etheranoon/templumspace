@@ -1504,14 +1504,45 @@ section.lazy-placeholder:after {
 .cid-siHVI1HfSd .card {
   padding-bottom: 1.5rem;
 }
-.cid-sj7OKT3A5a {
-  padding-top: 15px;
+.cid-sjdX6GOPuB {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
-.cid-sj7OKT3A5a .mbr-text,
-.cid-sj7OKT3A5a blockquote {
-  color: #ffffff;
+.cid-sjdX6GOPuB .card {
+  align-self: stretch;
+}
+.cid-sjdX6GOPuB .card-box {
+  height: 100%;
+  background-color: #2e2e2e;
+  padding: 2rem;
+}
+.cid-sjdX6GOPuB h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sjdX6GOPuB p {
+  color: #767676;
+  text-align: left;
+}
+.cid-sjdX6GOPuB .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sjdX6GOPuB .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-sjdX6GOPuB .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-sjdX6GOPuB P {
   text-align: center;
 }
 .cid-siLXCMyoJ7 {
