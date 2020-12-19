@@ -1117,17 +1117,6 @@ section.lazy-placeholder:after {
     height: calc(100% - 56px);
   }
 }
-.cid-sj96xznTXm {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-color: #000000;
-}
-.cid-sj96xznTXm .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sj96xznTXm H2 {
-  color: #ffffff;
-}
 .cid-sj96wJx7mV {
   background: #c1c1c1;
 }
@@ -1148,26 +1137,60 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-sj96wgRO3w {
-  padding-top: 30px;
-  padding-bottom: 90px;
+.cid-sj96xznTXm {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+.cid-sj96xznTXm .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-sj96xznTXm H2 {
+  color: #ffffff;
+}
+.cid-sjBfh8CwxK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
   background-color: #ffffff;
 }
-.cid-sj96wgRO3w .title {
-  margin-bottom: 2rem;
-}
-.cid-sj96wgRO3w .mbr-section-subtitle {
+.cid-sjBfh8CwxK p {
   color: #767676;
 }
-.cid-sj96wgRO3w a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
+.cid-sjBfh8CwxK .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
 }
-.cid-sj96wgRO3w a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
+.cid-sjBfh8CwxK .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
 }
-.cid-sj96wgRO3w textarea.form-control {
-  min-height: 188px;
+.cid-sjBfh8CwxK .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-sjBfh8CwxK .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-sjBfh8CwxK .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-sjBfh8CwxK .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-sjBfh8CwxK H4 {
+  text-align: center;
+}
+.cid-sjBfh8CwxK .panel-text {
+  text-align: center;
 }
 .cid-sj96uSgaJ3 {
   background: #c1c1c1;
