@@ -3008,26 +3008,6 @@ section.lazy-placeholder:after {
     margin-left: 0 !important;
   }
 }
-.cid-skIIJATlBO {
-  background: #c1c1c1;
-}
-.cid-skIIJATlBO .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-skIIJATlBO figcaption {
-  position: relative;
-}
-.cid-skIIJATlBO figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-skIIJATlBO .image-block {
-    width: 100% !important;
-  }
-}
 .cid-skWfIiQuvt {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3338,6 +3318,26 @@ section.lazy-placeholder:after {
 .cid-skRg4zTSot .card-title {
   text-align: center;
   color: #149dcc;
+}
+.cid-slcyo4v05f {
+  background: #c1c1c1;
+}
+.cid-slcyo4v05f .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-slcyo4v05f figcaption {
+  position: relative;
+}
+.cid-slcyo4v05f figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-slcyo4v05f .image-block {
+    width: 100% !important;
+  }
 }
 .cid-skWj31xxCQ {
   padding-top: 30px;
@@ -3752,7 +3752,7 @@ section.lazy-placeholder:after {
 .cid-sl6EEWSrOD .price-value {
   font-weight: 700;
   vertical-align: top;
-  color: #ffffff;
+  color: #879a9f;
 }
 @media (max-width: 550px) {
   .cid-sl6EEWSrOD .price-figure {
@@ -3812,7 +3812,7 @@ section.lazy-placeholder:after {
 .cid-slbZta343n .price-value {
   font-weight: 700;
   vertical-align: top;
-  color: #ffffff;
+  color: #879a9f;
 }
 @media (max-width: 550px) {
   .cid-slbZta343n .price-figure {
@@ -4293,4 +4293,40 @@ section.lazy-placeholder:after {
   .cid-skITh93fTK .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
   }
+}
+.cid-slcyxhb7cP {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #2e2e2e;
+}
+.cid-slcyxhb7cP H1 {
+  color: #e4d295;
+  text-align: center;
+}
+.cid-slcyxhb7cP H3 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-slcyuPfpL7 {
+  background: #ffffff;
+}
+.cid-slcyuPfpL7 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-slcyuPfpL7 figcaption {
+  position: relative;
+}
+.cid-slcyuPfpL7 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-slcyuPfpL7 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-slcyuPfpL7 DIV {
+  color: #7f1933;
 }
