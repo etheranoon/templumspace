@@ -6915,25 +6915,95 @@ section.lazy-placeholder:after {
 .cid-slT6TTbW9N .mbr-section-btn {
   color: #eeffe7;
 }
-.cid-slTh7YIhUw {
+.cid-slTzwhAArp {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-slTzwhAArp .card-box {
+  padding: 0 2rem;
+}
+.cid-slTzwhAArp .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-slTzwhAArp .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-slTzwhAArp h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-slTzwhAArp p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-slTzwhAArp .mbr-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-slTzwhAArp .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
   background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
 }
-.cid-slTh7YIhUw .image-block {
-  margin: auto;
-  width: 100% !important;
+.cid-slTzwhAArp .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
-.cid-slTh7YIhUw figcaption {
-  position: relative;
+.cid-slTzwhAArp .card-title {
+  text-align: center;
+  color: #767676;
 }
-.cid-slTh7YIhUw figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+.cid-slTz3h0Q6y {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-@media (max-width: 768px) {
-  .cid-slTh7YIhUw .image-block {
-    width: 100% !important;
-  }
+.cid-slTz3h0Q6y .card-box {
+  padding: 0 2rem;
+}
+.cid-slTz3h0Q6y .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-slTz3h0Q6y .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-slTz3h0Q6y h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-slTz3h0Q6y p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-slTz3h0Q6y .mbr-text {
+  color: #232323;
+  text-align: center;
+}
+.cid-slTz3h0Q6y .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-slTz3h0Q6y .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-slTz3h0Q6y .card-title {
+  text-align: center;
+  color: #cc2952;
 }
 .cid-slThsr4BSI {
   padding-top: 90px;
