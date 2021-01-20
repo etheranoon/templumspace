@@ -4581,21 +4581,14 @@ section.lazy-placeholder:after {
 .cid-slNIUVHLLN .mbr-section-btn {
   color: #232323;
 }
-.cid-smyok2LVta {
-  padding-top: 2rem;
-  padding-bottom: 10rem;
-  background-color: #ffffff;
+.cid-smElsy6y0g {
+  padding-top: 105px;
+  padding-bottom: 120px;
+  background-color: #2e2e2e;
 }
-@media (max-width: 991px) {
-  .cid-smyok2LVta .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-smyok2LVta .row {
-  flex-direction: row-reverse;
-}
-.cid-smyok2LVta img {
-  width: 100%;
+.cid-smElsy6y0g .mbr-text,
+.cid-smElsy6y0g .mbr-section-btn {
+  color: #e4d295;
 }
 .cid-smyoi1hWLn {
   padding-top: 60px;
